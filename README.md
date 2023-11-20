@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hola, me llamo Julian👋
 
-<!--
-**JulianAscanio/JulianAscanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de Ingeniería de Sistemas | Apasionado por la Tecnología
 
-Here are some ideas to get you started:
+¡Bienvenido(a) a mi perfil de GitHub! Soy un estudiante de ingeniería de sistemas en la universidad Francisco de Paula Santander Cúcuta con una pasión por la tecnología y el desarrollo de software. Me encanta aprender sobre nuevas tecnologías y aplicar mis conocimientos para resolver problemas y crear soluciones.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

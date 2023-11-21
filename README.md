@@ -1,6 +1,8 @@
 <h1 align="center">Hola👋, soy Julian Ascanio</h1>
 <h3 align="center">Estudiante de Ingeniería de Sistemas | Apasionado por la Tecnología</h3>
 
+Soy estudiante de ingeniería de sistemas en la Universidad Francisco de Paula Santander Cúcuta. Apasionado por la programación y en constante aprendizaje. Me estoy enfocando en el desarrollo software utilizando el lenguaje Java. Me encanta resolver problemas y encontrar soluciones. Quiero seguir expandiendo mis conocimientos en el campo de la programación. 
+
 - 🌱 Actualmente estoy aprendiendo **Spring, JavaScript y estructuras de datos en java.**
 
 - 👯 Colaboraciones [Museo-POO-II](https://github.com/Arguellis17/Museo-POO-II)

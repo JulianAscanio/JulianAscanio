@@ -11,8 +11,8 @@ Soy estudiante de ingeniería de sistemas en la Universidad Francisco de Paula S
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/julian andres ascanio castilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julian andres ascanio castilla" height="30" width="40" /></a>
-<a href="https://fb.com/julian ascanio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="julian ascanio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/julian-andres-ascanio-castilla-aab873208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julian andres ascanio castilla" height="30" width="40" /></a>
+<a href=https://www.facebook.com/julian.ascanio.1/ target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="julian ascanio" height="30" width="40" /></a>
 <a href="https://instagram.com/julian_asc28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="julian_asc28" height="30" width="40" /></a>
 </p>
 
